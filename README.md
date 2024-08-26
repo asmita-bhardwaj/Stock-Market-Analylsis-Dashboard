@@ -36,7 +36,7 @@ This notebook handles the preprocessing of the stock market dataset, which was s
 
 ## How to Use
 1. **Jupyter Notebook**: Open the notebook (`Stock_Data_Preprocessing.ipynb`) in your local environment to review the data preprocessing steps. This file prepares the data for visualization in Tableau.
-2. **Tableau Public Dashboard**: View the interactive dashboard on [Tableau Public](<(https://public.tableau.com/views/Dashboard_17246876197530/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)>) to explore the stock market trends and insights.
+2. **Tableau Public Dashboard**: View the interactive dashboard on [Tableau Public](<https://public.tableau.com/views/Dashboard_17246876197530/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link>) to explore the stock market trends and insights.
 
 ## Future Improvements
 I would love to keep working on this project and take it further! Here are some things I hope to add soon:
