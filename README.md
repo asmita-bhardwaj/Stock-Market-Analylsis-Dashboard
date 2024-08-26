@@ -5,7 +5,7 @@ This project focuses on analyzing stock market data from five major tech compani
 
 ## Project Components
 
-### 1. [Tableau Public Dashboard](<[Your Tableau Public Link Here](https://public.tableau.com/views/Dashboard_17246876197530/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)>)
+### 1. [Tableau Public Dashboard](<https://public.tableau.com/views/Dashboard_17246876197530/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)>)
 This interactive dashboard allows users to explore stock market trends, including volume traded, price changes, and moving averages. Users can filter the data by company and date to observe specific trends in stock performance.
 
 - **Key Visualizations:**
