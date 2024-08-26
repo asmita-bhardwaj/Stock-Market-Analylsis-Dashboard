@@ -14,7 +14,7 @@ This interactive dashboard allows users to explore stock market trends, includin
   - **Moving Averages**: A chart comparing different moving averages (MA50 and MA200) for company stocks.
   - **Price and Volume Change Table**: Displays daily price and volume changes for each company.
 
- ![Dashboard Screenshot](Dashboard Screenshot.png)
+![Dashboard Screenshot](Dashboard Screenshot.png)
 
 ### 2. [Jupyter Notebook: Stock Data Preprocessing](Stock_Data_Preprocessing.ipynb)
 This notebook handles the preprocessing of the stock market dataset, which was sourced from [Kaggle](https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset). The notebook includes the following steps:
